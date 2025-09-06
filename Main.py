@@ -62,7 +62,7 @@ for i in range(3):
         time.sleep(5)
 
     # === Final da automação ===
-print("\n [INFO] Finalizando automação...")
+print("\n Finalizando automação...")
 
 # Pressiona o botão home
 device.press("home")
@@ -78,4 +78,5 @@ if device(textContains="Fechar tudo").exists:
     print(" Todos os aplicativos foram fechados.")
     time.sleep(2)
 else:
+
     print(" Botão 'Fechar tudo' não encontrado.")
