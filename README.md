@@ -30,5 +30,4 @@ Antes de rodar o script, você precisa ter:
 
 ---
 
-## 📜 Licença
-Este projeto é open-source, feito apenas para fins de estudo e automação pessoal.
+
